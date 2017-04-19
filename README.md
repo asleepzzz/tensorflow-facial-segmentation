@@ -1,3 +1,6 @@
+FIX https://github.com/arahusky/Tensorflow-Segmentation
+can't use when commit 7aabc69a07eb9895e8eb92f21dcb91c6a1139b27,
+fix module name can't find, tensorflow api too old......
 # Project overview
 
 The main file of the project is *convolutional_autoencoder.py*, which contains code for dataset processing (class Dataset), model definition (class Model) and also code for training. 
